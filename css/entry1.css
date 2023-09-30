@@ -1,0 +1,50 @@
+body{
+    background-color: aquamarine;
+    background-image: url(https://img.freepik.com/free-photo/white-paper-texture_1194-2324.jpg?w=2000);
+    font-family: 'Young Serif', serif;
+}
+h1{
+    margin: 20px;
+}
+p:hover{
+    font-size: 30px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 10px;
+}
+a:hover{
+    letter-spacing: 10px;
+    color: coral;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    margin: 20px;
+    color: orange;
+}
+div{
+    background-color: bisque;
+    margin: 20px;
+    border: 2px dotted red;
+    padding: 20px;
+    border-radius: 10px;
+}
+.img-border{
+    background-color: aliceblue;
+    border: 5px dotted blue;
+}
+#text-container{
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    background-color: chartreuse;
+}
+hr{
+    border-bottom: px;
+    border-top: 2px dotted red;
+}
+span{
+    background-color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+    border-radius: 10px;
+    margin: 20px;
+}
